@@ -1,0 +1,13 @@
+.DS_Store
+*~
+*.aux
+*.out
+*.log
+*.run.xml
+*.synctex.gz
+*-blx.bib
+*.bbl
+*.blg
+*.lot
+*.nlo
+.idea/

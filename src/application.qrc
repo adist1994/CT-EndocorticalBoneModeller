@@ -1,0 +1,19 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>images/copy.png</file>
+    <file>images/cut.png</file>
+    <file>images/new.png</file>
+    <file>images/open.png</file>
+    <file>images/openImage.png</file>
+    <file>images/openMesh.png</file>
+    <file>images/openScript.png</file>
+    <file>images/openParameters.png</file>
+    <file>images/paste.png</file>
+    <file>images/save.png</file>
+    <file>images/saveMesh.png</file>
+    <file>images/saveDisplay.png</file>
+    <file>images/saveValues.png</file>
+    <file>images/close.png</file>
+    <file>images/clearText.png</file>
+</qresource>
+</RCC>
